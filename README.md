@@ -44,7 +44,7 @@ To clone this project to your local machine, follow these steps:
 2. Run the following command:
 
    ```bash
-   git clone https://github.com/SReddy-96/TOP-node-basic-site-with-express.git
+   git clone https://github.com/SReddy-96/TOP-basic-information-site-with-express.git
    ```
 
 3. Navigate into the project directory.
